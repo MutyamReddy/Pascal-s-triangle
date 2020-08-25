@@ -1,4 +1,4 @@
-# Pascal-s-triangle
+# Pascals-triangle
 118. Pascal's Triangle
 Easy
 
